@@ -1,13 +1,12 @@
-import './App.css';
+import React from 'react'
+import Body from './Components/Body'
 
-function App() {
+function App () {
   return (
-    <div className="App">
-      <h1 className='text-3xl font-bold underline'>
-        Hello NetflixGPT
-      </h1>
+    <div className='App'>
+      <Body />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

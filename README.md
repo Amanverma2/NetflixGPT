@@ -76,6 +76,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 1. create react app - project is created .
 2. installed Taillwind css - from tailwind site and done some config.
+3. Header
+4. Login form  
+
 
 
 
